@@ -19,7 +19,7 @@ from discord import embeds
 #변수
 client = discord.Client()
 msg = message
-token = "ODY2MTk2NjA4NzUyNDE4ODM2.YPPCdA.bgu8V8fnPf5ogmCcDD2rWhHpaa8"
+token = "ODY2MTk2NjA4NzUyNDE4ODM2.YPPCdA.HGdIRbfQhZMVpEQr8NoE7hbGjYc"
 inging = "온라인..." #봇의 상태(3컷)
 inginging = "통큰봇은 지금 온라인입니다." #봇의 상태(상황)
 
